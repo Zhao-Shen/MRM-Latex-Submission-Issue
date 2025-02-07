@@ -45,12 +45,12 @@ Solution: Adjust Text Box Width
 ```latex
 \newskip\abs@coli@hsize%
 \newskip\abs@colii@hsize%
-  % \abs@coli@hsize55.5mm%
-  \abs@coli@hsize47.5mm%
-  \advance\abs@coli@hsize by -14.5pt%
-  % \abs@colii@hsize122.3mm%
-  \abs@colii@hsize130.3mm%
-  \advance\abs@colii@hsize by -14pt%
+% \abs@coli@hsize55.5mm%
+\abs@coli@hsize47.5mm%
+\advance\abs@coli@hsize by -14.5pt%
+% \abs@colii@hsize122.3mm%
+\abs@colii@hsize130.3mm%
+\advance\abs@colii@hsize by -14pt%
 ```
 
 ## Workarounds for Submission
