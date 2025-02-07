@@ -67,4 +67,3 @@ MRM has announced plans to switch from ScholarOne to its own submission portal i
 If you encounter additional issues or find solutions, feel free to share them in the discussion. A modified `MRM.cls` file that incorporates the fixes mentioned above is included for reference.
 
 Hope these steps help!
-```
